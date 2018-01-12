@@ -8,6 +8,8 @@ npm i
 
 ## Custom
 
+Edit ipsw-check.js
+
 ### Configuration send email
 
 ````
