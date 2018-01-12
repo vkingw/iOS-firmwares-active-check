@@ -1,0 +1,26 @@
+{
+  "name": "iOS-firmwares-active-check",
+  "version": "0.1.0",
+  "private": false,
+  "author": "vincent",
+  "email": "alfa.king+git@gmail.com",
+  "license": "MIT",
+  "main": "ipse-check.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vkingw/iOS-firmwares-active-check"
+  },
+  "files": [
+    "dist"
+  ],
+  "keywords": [
+    "iOS",
+    "firmwares",
+    "active",
+    "check"
+  ],
+  "dependencies": {
+    "nodemailer": "^4.4.1",
+    "request": "^2.83.0"
+  }
+}
