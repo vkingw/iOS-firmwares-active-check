@@ -1,7 +1,7 @@
 # iOS-firmwares-active-check
 use node js check ios firmwares active
 
-
+When the required version is activated, email will be sent.
 ## Installation
 
 npm i
@@ -50,8 +50,14 @@ const version = 'iPhone_4.7_10'
 
 ## Run
 
+Mac、Linux、Win
 ````
 node ipsw-check.js > check.log &
+````
+
+Raspberry Pi
+````
+sudo node ipsw-check.js > check.log &
 ````
 
 Perfect operation in Raspberry Pi.
